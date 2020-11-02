@@ -1,6 +1,6 @@
 # Hi there👋, My name is Binjita Kandel Baral
 - 👯  I’m looking to collaborate on Full-stack web development 
-- 🤔  I’m looking for a Junior entry level Software Developer position at San Antonio,TX, Remote
+- 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX
 - 📫  Connect with me : binjita.baral@gmail.com. and https://www.linkedin.com/in/binjitakbaral/ 
 
 
