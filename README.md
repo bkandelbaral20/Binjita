@@ -39,7 +39,7 @@
 #### Scrum
 <p float="left">
   <img src="https://img.shields.io/badge/Trello%20-%23121011.svg?&style=for-the-badge&logo=Trello&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Agile Methodology%20-%23121011.svg?&style=for-the-badge&logo=Agile Methodology&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Agile%20-%23121011.svg?&style=for-the-badge&logo=Agile&logoColor=white"/>
 </p>
 
 
