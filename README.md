@@ -3,6 +3,7 @@
 ---
 - 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
 - 🔭 I just completed my group Codeup Capstone project, operationco-opt.
+- 🔭 Currently working on Pokemon project.
 - 🌱 I’m currently continuing to learn Java, Javascript and React.
 - 👯  I’m looking to collaborate on Full-stack web development 
 - 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX
@@ -33,6 +34,7 @@
 
 #### Version Control
 <p float="left">
+  <img src="https://img.shields.io/badge/git%20-%23121011.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
