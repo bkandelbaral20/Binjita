@@ -3,7 +3,7 @@
 ---
 - 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
 - 🔭 I just completed my group Codeup Capstone project, operationco-opt.
-- 🔭 Currently working on Pokemon project.
+- 🔭 Currently working on Pokemon project and Java SE 8 OCA Preparation.
 - 🌱 I’m currently continuing to learn Java, Javascript and React.
 - 👯  I’m looking to collaborate on Full-stack web development 
 - 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX
