@@ -1,5 +1,5 @@
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/bkandelbaral20/bkandelbaral20/blob/main/Binjita.png">
-<img src="https://github.com/bkandelbaral20/bkandelbaral20/raw/main/Binjita.png" alt="Header" style="max-width:100%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/bkandelbaral20/bkandelbaral20/blob/main/Binjita.mp4">
+<img src="https://github.com/bkandelbaral20/bkandelbaral20/raw/main/Binjita.mp4" alt="Header" style="max-width:100%;">
 </a>
 
 # Hi there👋, My name is Binjita Kandel Baral 
