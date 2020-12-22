@@ -1,7 +1,5 @@
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/alexandrahamner/alexandrahamner/blob/main/readme_header.png">
-<img src="https://github.com/alexandrahamner/alexandrahamner/raw/main/readme_header.png" alt="Header" style="max-width:100%;">
-</a>
+
 # Hi there👋, My name is Binjita Kandel Baral 
 ---
 - 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
