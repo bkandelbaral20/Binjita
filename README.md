@@ -15,11 +15,10 @@
 - 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX
 - 📫  Connect with me : binjita.baral@gmail.com. and www.linkedin.com/in/binjitakbaral/ 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkandelbaral20&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkandelbaral20&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![bkandelbaral20's github stats](https://github-readme-stats.vercel.app/api?username=bkandelbaral20&count_private=true&show_icons=true&theme=vue&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/bkandelbaral20/bkandelbaral20/blob/main/readme_header.png">
-  <img src="https://github.com/bkandelbaral20/bkandelbaral20/raw/main/readme_header.png" alt="Header" style="max-width:100%;"></a>
+[![bkandelbaral20's github stats](https://github-readme-stats.vercel.app/api?username=bkandelbaral20&count_private=true&show_icons=true&theme=merko&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 #### Frontend
 <p float="left">
