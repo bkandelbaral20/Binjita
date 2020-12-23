@@ -1,11 +1,11 @@
 
----
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/bkandelbaral20/bkandelbaral20/blob/main/Binjita Kandel Baral..png">
 <img src="https://github.com/bkandelbaral20/bkandelbaral20/raw/main/Binjita Kandel Baral..png" alt="Header" style="max-width:100%;">
 </a>
----
 
-#                  Hi there👋
+
+# Hi there👋
 ---
 - 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
 - 🔭 I just completed my group Codeup Capstone project, operationco-opt.
