@@ -8,11 +8,11 @@
 # Hi there👋
 ---
 - 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
-- 🔭 I just completed my group Codeup Capstone project, operationco-opt.
-- 🔭 Currently working on Pokemon project and Java SE 8 OCA Preparation.
-- 🌱 I’m currently continuing to learn Java, Javascript and React.
+- 🔭 I just completed my group Codeup Capstone project, operationco-opt
+- 🔭 Currently enchancing java and javaScript knowledge
+- 🌱 I’m currently continuing to learn Java, Javascript, React and Golang
 - 👯  I’m looking to collaborate on Full-stack web development 
-- 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX
+- 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX | open for remote opportunities
 - 📫  Connect with me : binjita.baral@gmail.com. and www.linkedin.com/in/binjitakbaral/ 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkandelbaral20&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
