@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Golang-%2300f.svg?&style=for-the-badge&logo=Golang&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-%2300f.svg?&style=for-the-badge&logo=Golangl&logoColor=white"/>
 </p>
 
 #### Version Control
