@@ -7,10 +7,11 @@
 
 # Hi there👋
 ---
-- 😄 I completed a 22 week career accelerator program at Codeup in San Antonio!
-- 🔭 I just completed my group Codeup Capstone project, operationco-opt
+- 😄 I am senior student majoring in Infoprmation System from University of Texas at San Antonio, graduating December 2022.
+- 😄  I completed a 22 week career accelerator program at Codeup in San Antonio!
+- 🔭 Completed my group Codeup Capstone project, operationco-opt
 - 🔭 Currently enchancing java and javaScript knowledge
-- 🌱 I’m currently continuing to learn Java, Javascript, React and Golang
+- 🌱 I’m currently continuing to learn Java and Python
 - 👯  I’m looking to collaborate on Full-stack web development 
 - 🤔  I’m looking for a Entry level Software Developer position at San Antonio,TX | open for remote opportunities
 - 📫  Connect with me : binjita.baral@gmail.com. and www.linkedin.com/in/binjitakbaral/ 
